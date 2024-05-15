@@ -31,4 +31,4 @@ python val.py --modelPath ./trained_models --outDir ./out_result --inDir ./test_
 ```
 
 ## Contact 
-Feel free to email me if you have any questions: nieyongwei@scut.edu.cn.
+Feel free to email me if you have any questions: nieyongwei@scut.edu.cn
