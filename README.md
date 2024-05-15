@@ -31,4 +31,4 @@ python val.py --modelPath ./trained_models --outDir ./out_result --inDir ./test_
 ```
 
 ## Contact 
-Feel free to email me if you have any questions: nieyongwei@scut.edu.cn
+The test script is a clean version. The train scripts are not clean versions just for your reference. Feel free to email me if you have any questions: nieyongwei@scut.edu.cn
