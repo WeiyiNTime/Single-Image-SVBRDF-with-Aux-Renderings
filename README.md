@@ -1,4 +1,5 @@
 # Single-Image-SVBRDF-with-Aux-Renderings
+This is code of "Single-Image SVBRDF Estimation Using Auxiliary Renderings as Intermediate Targets"
 
 ## Set up environment
 To set up environment, please run this command below:
