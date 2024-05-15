@@ -29,3 +29,6 @@ To test high resolution:
 ```
 python val.py --modelPath ./trained_models --outDir ./out_result --inDir ./test_data/high-resolution --TestType real
 ```
+
+## Contact 
+Feel free to email me if you have any questions: nieyongwei@scut.edu.cn.
