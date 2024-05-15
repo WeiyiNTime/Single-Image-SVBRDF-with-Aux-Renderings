@@ -11,4 +11,14 @@ conda env create -f env.yml
 
 ## Inference
 
-To test Des18, run:
+To test Des18:
+python val.py --modelPath ./trained_models --outDir ./out_result --inDir ./test_data/Des18/input --gtDir ./test_data/Des18/gt-material --TestType Des18
+
+To test Des19:
+python val.py --modelPath ./trained_models --outDir ./out_result --inDir ./test_data/Des19/input --gtDir ./test_data/Des19/gt-material --TestType Des19
+
+To test real:
+python val.py --modelPath ./trained_models --outDir ./out_result --inDir ./test_data/real --TestType real
+
+To test high resolution:
+python val.py --modelPath ./trained_models --outDir ./out_result --inDir ./test_data/high-resolution --TestType real
